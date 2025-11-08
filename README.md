@@ -2,7 +2,7 @@
 A modern, full-featured **Todo Management App** built using the **MERN stack**, featuring authentication, task CRUD, filtering, sorting, pagination, and dark mode.
 
 ## 🚀 Live Demo  
-(Coming Soon)
+https://todo-list-app-ten-lemon.vercel.app/
 
 ---
 
