@@ -105,10 +105,12 @@ DELETE	/api/tasks/:id	Delete task
 📸 Screenshots 
 
 🔐 Authentication UI
+
 <img width="614" height="465" alt="image" src="https://github.com/user-attachments/assets/0f99cb8f-24d0-4b13-88e1-b72a6eda54a2" />
 
 
 ✅ Dashboard
+
 <img width="869" height="644" alt="image" src="https://github.com/user-attachments/assets/e23f6d90-3cf9-4fcf-9cba-fd46aa31627b" />
 
 
