@@ -102,13 +102,20 @@ POST	/api/tasks	Create task
 PUT	/api/tasks/:id	Update task
 DELETE	/api/tasks/:id	Delete task
 
-📸 Screenshots (Add your own)
+📸 Screenshots 
+
 🔐 Authentication UI
+<img width="614" height="465" alt="image" src="https://github.com/user-attachments/assets/0f99cb8f-24d0-4b13-88e1-b72a6eda54a2" />
 
 
 ✅ Dashboard
+<img width="869" height="644" alt="image" src="https://github.com/user-attachments/assets/e23f6d90-3cf9-4fcf-9cba-fd46aa31627b" />
+
 
 🌙 Dark Mode
+
+<img width="848" height="642" alt="image" src="https://github.com/user-attachments/assets/4a2cbcd8-9021-45d0-a48b-dfaf5c20f5ca" />
+
 
 ⭐ Contribution
 Pull requests are welcome!
