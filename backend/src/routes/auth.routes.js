@@ -3,7 +3,7 @@ import jwt from "jsonwebtoken";
 import User from "../models/User.js";
 
 const router = Router();
-const cookie = { httpOnly: true, sameSite: "none", secure: false };
+const cookie = { httpOnly: true, sameSite: "none", secure: true };
 
 // ✅ REGISTER
 router.post("/register", async (req, res) => {
