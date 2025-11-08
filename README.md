@@ -64,8 +64,8 @@ VITE_API_URL=http://localhost:5000/api
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/mern-todo-app.git
-cd mern-todo-app
+git clone https://github.com/aggisanjay/Todo-list-application-Mern
+cd Todo-list-application-Mern
 
 
 2️⃣ Backend Setup
