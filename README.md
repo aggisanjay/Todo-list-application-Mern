@@ -4,7 +4,6 @@ A modern, full-featured **Todo Management App** built using the **MERN stack**, 
 ## 🚀 Live Demo  
 https://todo-list-app-ten-lemon.vercel.app/
 
----
 
 ## ✅ Features
 
@@ -30,7 +29,6 @@ https://todo-list-app-ten-lemon.vercel.app/
 - Fully mobile-friendly
 - Clean dashboard layout
 
----
 
 ## 🛠 Tech Stack
 
@@ -48,7 +46,7 @@ https://todo-list-app-ten-lemon.vercel.app/
 - JWT Authentication (HttpOnly Cookies)
 - CORS, Cookie-Parser, dotenv
 
----
+
 ## ⚙️ Environment Variables
 
 ### **Backend (`/backend/.env`)**
@@ -127,16 +125,3 @@ MIT License © 2025
 
 ❤️ Show Your Support
 If this project helped you, give it a ⭐ star on GitHub!
-
-yaml
-Copy code
-
----
-
-If you want, I can also generate:
-
-✅ A project banner  
-✅ A better screenshot layout  
-✅ Version with emojis removed (more professional)  
-
-Just say **“improve readme visuals”**.
